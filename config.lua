@@ -27,7 +27,7 @@ end
 Config.Products = {
     [1] = {
         name = "weed_white-widow",
-        price = 15,
+        price = 390,
         amount = 150,
         info = {},
         type = "item",
@@ -36,7 +36,7 @@ Config.Products = {
     },
     [2] = {
         name = "weed_skunk",
-        price = 15,
+        price = 400,
         amount = 150,
         info = {},
         type = "item",
@@ -45,7 +45,7 @@ Config.Products = {
     },
     [3] = {
         name = "weed_purple-haze",
-        price = 15,
+        price = 300,
         amount = 150,
         info = {},
         type = "item",
@@ -54,7 +54,7 @@ Config.Products = {
     },
     [4] = {
         name = "weed_og-kush",
-        price = 15,
+        price = 300,
         amount = 150,
         info = {},
         type = "item",
@@ -63,7 +63,7 @@ Config.Products = {
     },
     [5] = {
         name = "weed_amnesia",
-        price = 15,
+        price = 400,
         amount = 150,
         info = {},
         type = "item",
@@ -72,7 +72,7 @@ Config.Products = {
     },
     [6] = {
         name = "weed_white-widow_seed",
-        price = 15,
+        price = 150,
         amount = 150,
         info = {},
         type = "item",
@@ -81,7 +81,7 @@ Config.Products = {
     },
     [7] = {
         name = "weed_skunk_seed",
-        price = 15,
+        price = 150,
         amount = 150,
         info = {},
         type = "item",
@@ -90,7 +90,7 @@ Config.Products = {
     },
     [8] = {
         name = "weed_purple-haze_seed",
-        price = 15,
+        price = 150,
         amount = 150,
         info = {},
         type = "item",
@@ -99,7 +99,7 @@ Config.Products = {
     },
     [9] = {
         name = "weed_og-kush_seed",
-        price = 15,
+        price = 150,
         amount = 150,
         info = {},
         type = "item",
@@ -108,7 +108,7 @@ Config.Products = {
     },
     [10] = {
         name = "weed_amnesia_seed",
-        price = 15,
+        price = 150,
         amount = 150,
         info = {},
         type = "item",
@@ -133,40 +133,40 @@ Config.CornerSellingDrugsList = {
 
 Config.DrugsPrice = {
     ["weed_white-widow"] = {
-        min = 15,
-        max = 24,
+        min = 375,
+        max = 500,
     },
     ["weed_og-kush"] = {
-        min = 15,
-        max = 28,
+        min = 300,
+        max = 460,
     },
     ["weed_skunk"] = {
-        min = 15,
-        max = 31,
+        min = 270,
+        max = 700,
     },
     ["weed_amnesia"] = {
-        min = 18,
-        max = 34,
+        min = 300,
+        max = 600,
     },
     ["weed_purple-haze"] = {
-        min = 18,
-        max = 37,
+        min = 200,
+        max = 350,
     },
     ["weed_ak47"] = {
-        min = 18,
-        max = 40,
+        min = 650,
+        max = 800,
     },
     ["crack_baggy"] = {
-        min = 18,
-        max = 34,
+        min = 900,
+        max = 1400,
     },
     ["cokebaggy"] = {
-        min = 18,
-        max = 37,
+        min = 900,
+        max = 1300,
     },
     ["meth"] = {
-        min = 18,
-        max = 40,
+        min = 1200,
+        max = 1800,
     },
 }
 
@@ -181,7 +181,7 @@ Config.DeliveryLocations = {
     },
     [3] = {
         ["label"] = "Taxi",
-	["coords"] = vector3(882.67, -160.26, 77.11),
+	["coords"] = vector3(899.77, -171.38, 74.08),
     },
     [4] = {
         ["label"] = "Resort",
